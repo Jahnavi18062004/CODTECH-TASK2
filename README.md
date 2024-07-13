@@ -8,3 +8,7 @@
 
 
 **OVERVIEW OF PROJECT**  
+
+**OBJECTIVE OF PROJECT**     
+The objective of Project is Design comprehensive wireframes for a mobile application using tools like figma. develop the app's navigation flow, screen layouts, and fundamental ui elements to effectively communicate the app's functionality and user interaction.
+
